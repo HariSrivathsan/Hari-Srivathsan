@@ -10,7 +10,7 @@ I have a deep passion for **electronics**, **embedded systems**, and **IoT**. I 
 - 🌱 Actively working on projects involving **Arduino**, **Raspberry Pi**, **Embedded C**, and **IoT applications**.
 - 👯 Looking for opportunities to collaborate on projects related to **Embedded Systems**, **IoT**, **Automation**, and **Sensor Integration**.
 - 💬 Feel free to ask me about **C programming**, **Embedded Systems Development**, **Arduino Projects**, and more!
-- 📫 You can reach me at [harisrivathsan.pers@gmail.com](mailto:your-email@example.com).
+- 📫 You can reach me at harisrivathsan.pers@gmail.com
 
 ## Skills & Tools
 
@@ -31,7 +31,7 @@ A home automation system built using **Arduino** and **IoT** for smart home cont
 ## Contact Me
 
 - GitHub: https://github.com/HariSrivathsan
-- LinkedIn: linkedin.com/in/hari-srivathsan
+- LinkedIn: https://www.linkedin.com/in/hari-srivathsan-s-653160261
 - Email: harisrivathsan.pers@gmail.com
 
 ## Education
