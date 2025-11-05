@@ -30,7 +30,7 @@ A home automation system built using **Arduino** and **IoT** for smart home cont
 
 ## Contact Me
 
-- GitHub: [https://github.com/HariSrivathsan](https://github.com/your-username)
+- GitHub: https://github.com/HariSrivathsan
 - LinkedIn: [linkedin.com/in/hari-srivathsan](https://www.linkedin.com/in/hari-srivathsan)
 - Email: [harisrivathsan.pers@gmail.com](mailto:your-email@example.com)
 
