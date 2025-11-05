@@ -10,17 +10,15 @@ I have a deep passion for **electronics**, **embedded systems**, and **IoT**. I 
 - 🌱 Actively working on projects involving **Arduino**, **Raspberry Pi**, **Embedded C**, and **IoT applications**.
 - 👯 Looking for opportunities to collaborate on projects related to **Embedded Systems**, **IoT**, **Automation**, and **Sensor Integration**.
 - 💬 Feel free to ask me about **C programming**, **Embedded Systems Development**, **Arduino Projects**, and more!
-- 📫 You can reach me at [your-email@example.com](mailto:your-email@example.com).
+- 📫 You can reach me at [harisrivathsan.pers@gmail.com](mailto:your-email@example.com).
 
 ## Skills & Tools
 
-- **Languages**: C, C++, Python, Assembly (8051, ARM)
-- **Embedded Platforms**: Arduino, Raspberry Pi, ESP32
-- **Tools/Technologies**: Embedded C, IoT, Circuit Design, PCB Layout, RTOS (FreeRTOS)
-- **Microcontrollers**: Atmega328P, STM32, ARM Cortex-M
+- **Languages**: C, C++, Embedded C
+- **Embedded Platforms**: Proteus, Flashmagic, Keil
+- **Tools/Technologies**: Embedded C, IoT, RTOS
+- **Microcontrollers**: ARM7
 - **Operating Systems**: Linux (Ubuntu), Windows
-- **Version Control**: Git, GitHub
-- **Other**: Electronics Design, Schematic Design, IoT Protocols (MQTT, HTTP)
 
 ## Projects
 
@@ -32,14 +30,14 @@ A home automation system built using **Arduino** and **IoT** for smart home cont
 
 ## Contact Me
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- GitHub: [https://github.com/HariSrivathsan](https://github.com/your-username)
 - LinkedIn: [linkedin.com/in/hari-srivathsan](https://www.linkedin.com/in/hari-srivathsan)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [harisrivathsan.pers@gmail.com](mailto:your-email@example.com)
 
 ## Education
 
-- **B.E. in Electronics and Communication Engineering (ECE)** - [Your University Name]
-- **Embedded Systems Course** (Ongoing)
+- **B.E. in Electronics and Communication Engineering (ECE)** - [Easwari Engineering College]
+- **Embedded Systems Course** (Ongoing) - [Vector India ]
 
 ---
 
